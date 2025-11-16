@@ -1,6 +1,6 @@
 # controle-de-produtos
 
-# 💻 Sistema de Controle de Produtos em C
+# Sistema de Controle de Produtos em C
 
 Projeto desenvolvido para a disciplina **Programação Estruturada**.  
 O objetivo é criar um sistema simples de gerenciamento de produtos utilizando:
