@@ -15,7 +15,7 @@ O programa lê inicialmente um arquivo contendo 20 produtos e permite diferentes
 
 ---
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 O sistema apresenta um menu com as seguintes opções:
 
@@ -38,3 +38,16 @@ O sistema apresenta um menu com as seguintes opções:
 5. **Sair**  
    - Encerra o programa.
 
+Cada linha no arquivo deve ter:  
+`codigo nome preco quantidade`
+
+Exemplo:
+101 Arroz 5.49 20
+102 Feijao 8.90 15
+103 Macarrao 4.25 12
+
+Observação: o nome não pode ter espaços (o programa lê com `%s`).
+
+## Como compilar e executar
+gcc projeto.c -o projeto.exe
+./projeto.exe
